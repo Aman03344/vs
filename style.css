@@ -154,6 +154,10 @@
 .fbox h5 {
     margin-block: 20px;
 }
+
+.fbox p{
+   font-size: 13px;
+}
 /* |||||||||| */
 
 .card-sec {
